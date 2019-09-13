@@ -6,7 +6,7 @@ sections:
   title: Intro
   section_id: intro
   component: intro.html
-  content: This site is new
+  content: This site is new hello !
   actions:
   - label: Learn More
     url: "/about"
